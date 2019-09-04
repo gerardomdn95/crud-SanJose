@@ -1,0 +1,2 @@
+npm init -> Comenzamos un nuevo proyecto con NsodeJS (Crea nuesto package.json)
+npm i -> Instalamos dependencuia (Crea package-lock.json)
